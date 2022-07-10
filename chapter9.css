@@ -66,18 +66,15 @@ footer {
 }
 
 @media screen and (max-width: 768px){
-  header{
-    width:100%;
-  }
-  
-  main{
+  main {
     width: 100%;
     display: block;
   }
   
-  .step-box{
-    width: 100%;
-    padding-left: 5%;
-    padding-right: 5%;
+  .step-box {
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 20px;
   }
 }
